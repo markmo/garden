@@ -230,8 +230,8 @@ jobs:
       - run:
           name: Configure git (needed for some tests)
           command: |
-            git config --global user.name "Garden CI"
-            git config --global user.email "admin@garden.io"
+            git config --global user.name "markmo"
+            git config --global user.email "m4rkmo@gmail.com"
       - run:
           name: test
           command: |
