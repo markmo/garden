@@ -2,6 +2,7 @@
   "name": "dashboard",
   "version": "0.2.14",
   "private": true,
+  "homepage": ".",
   "devDependencies": {
     "@types/d3": "^5.7.2",
     "@types/dagre-d3": "^0.4.39",
